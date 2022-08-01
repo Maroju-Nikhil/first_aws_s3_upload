@@ -5,5 +5,5 @@ This is python file to upload local file to AWS S3 bucket using boto3
  - aws configure
     - Enter aws key id
     - Enter secret key id
-    - region : ap-south-1
+    - region : enter region
  - python file.py
